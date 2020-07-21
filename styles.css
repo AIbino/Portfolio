@@ -1,0 +1,5 @@
+.jumbotron {
+    background-image: url("./images/jumbrotron-bg.jpg");
+    /* <span>Photo by <a href="https://unsplash.com/@martenbjork?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Marten Bjork</a> on <a href="https://unsplash.com/s/photos/plane-laptop?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> */
+    background-size: cover;
+  }
